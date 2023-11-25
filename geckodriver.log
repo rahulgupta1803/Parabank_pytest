@@ -1,0 +1,20 @@
+1694071580306	geckodriver	INFO	Listening on 127.0.0.1:50712
+1694071583364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofileggXGCx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694071584156	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694071584299	Marionette	INFO	Listening on port 50723
+WebDriver BiDi listening on ws://127.0.0.1:50713
+Read port: 50723
+1694071584891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Fallback WR to SW-WR + D3D11
+[GFX1-]: Failed to initialize GPU process
+[GFX1-]: [D3D11] failed to get compositor device.
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_NO_DEVICE
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:50713/devtools/browser/9580497f-4014-4a2c-9e9b-7c191faa58e4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parabank.parasoft.com."
+1694071596036	Marionette	INFO	Stopped listening on port 50723
+Dynamically enable window occlusion 1

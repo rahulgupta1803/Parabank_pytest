@@ -1,0 +1,696 @@
+2023-08-15 18:25:51,712:20:Test_Register:test_register:12:Open browser
+2023-08-15 18:25:52,470:20:Test_Register:test_register:15:Click on Register
+2023-08-15 18:25:52,598:20:Test_Register:test_register:17:Enter First-Name
+2023-08-15 18:25:52,717:20:Test_Register:test_register:19:Enter Last-Name
+2023-08-15 18:25:52,883:20:Test_Register:test_register:21:Enter Address
+2023-08-15 18:25:52,968:20:Test_Register:test_register:23:Enter City
+2023-08-15 18:25:53,056:20:Test_Register:test_register:25:Enter State
+2023-08-15 18:25:53,139:20:Test_Register:test_register:27:Enter Zip
+2023-08-15 18:25:53,263:20:Test_Register:test_register:29:Enter Phone number
+2023-08-15 18:25:53,367:20:Test_Register:test_register:31:Enter SSN
+2023-08-15 18:25:53,502:20:Test_Register:test_register:33:Enter username
+2023-08-15 18:25:53,582:20:Test_Register:test_register:35:Enter Password
+2023-08-15 18:25:53,689:20:Test_Register:test_register:37:Enter confirm-password
+2023-08-15 18:25:54,264:20:Test_Register:test_register:39:Click confirm button
+2023-08-15 18:25:54,327:20:Test_Register:test_register:42:Registration is completed
+
+2023-08-15 18:26:42,054:20:Test_Register:test_register:12:Open browser
+2023-08-15 18:26:42,816:20:Test_Register:test_register:15:Click on Register
+2023-08-15 18:26:43,041:20:Test_Register:test_register:17:Enter First-Name
+2023-08-15 18:26:43,157:20:Test_Register:test_register:19:Enter Last-Name
+2023-08-15 18:26:43,291:20:Test_Register:test_register:21:Enter Address
+2023-08-15 18:26:43,400:20:Test_Register:test_register:23:Enter City
+2023-08-15 18:26:43,500:20:Test_Register:test_register:25:Enter State
+2023-08-15 18:26:43,623:20:Test_Register:test_register:27:Enter Zip
+2023-08-15 18:26:43,706:20:Test_Register:test_register:29:Enter Phone number
+2023-08-15 18:26:43,780:20:Test_Register:test_register:31:Enter SSN
+2023-08-15 18:26:43,861:20:Test_Register:test_register:33:Enter username
+2023-08-15 18:26:43,939:20:Test_Register:test_register:35:Enter Password
+2023-08-15 18:26:44,028:20:Test_Register:test_register:37:Enter confirm-password
+2023-08-15 18:26:44,629:20:Test_Register:test_register:39:Click confirm button
+2023-08-15 18:26:44,667:20:Test_Register:test_register:42:Registration is completed
+2023-08-15 18:30:31,219:20:Test_Register:test_register:12:Open browser
+2023-08-15 18:30:32,103:20:Test_Register:test_register:15:Click on Register
+2023-08-15 18:30:32,298:20:Test_Register:test_register:17:Enter First-Name
+2023-08-15 18:30:32,434:20:Test_Register:test_register:19:Enter Last-Name
+2023-08-15 18:30:32,612:20:Test_Register:test_register:21:Enter Address
+2023-08-15 18:30:32,696:20:Test_Register:test_register:23:Enter City
+2023-08-15 18:30:32,832:20:Test_Register:test_register:25:Enter State
+2023-08-15 18:30:32,964:20:Test_Register:test_register:27:Enter Zip
+2023-08-15 18:30:33,108:20:Test_Register:test_register:29:Enter Phone number
+2023-08-15 18:30:33,187:20:Test_Register:test_register:31:Enter SSN
+2023-08-15 18:30:33,265:20:Test_Register:test_register:33:Enter username
+2023-08-15 18:30:33,400:20:Test_Register:test_register:35:Enter Password
+2023-08-15 18:30:33,543:20:Test_Register:test_register:37:Enter confirm-password
+2023-08-15 18:30:34,115:20:Test_Register:test_register:39:Click confirm button
+2023-08-15 18:30:34,153:20:Test_Register:test_register:42:Registration is completed
+
+2023-08-15 18:32:16,288:20:Test_Register:test_register:12:Open browser
+2023-08-15 18:32:17,160:20:Test_Register:test_register:15:Click on Register
+2023-08-15 18:32:17,299:20:Test_Register:test_register:17:Enter First-Name
+2023-08-15 18:32:17,459:20:Test_Register:test_register:19:Enter Last-Name
+2023-08-15 18:32:17,562:20:Test_Register:test_register:21:Enter Address
+2023-08-15 18:32:17,697:20:Test_Register:test_register:23:Enter City
+2023-08-15 18:32:17,815:20:Test_Register:test_register:25:Enter State
+2023-08-15 18:32:17,890:20:Test_Register:test_register:27:Enter Zip
+2023-08-15 18:32:18,035:20:Test_Register:test_register:29:Enter Phone number
+2023-08-15 18:32:18,115:20:Test_Register:test_register:31:Enter SSN
+2023-08-15 18:32:18,227:20:Test_Register:test_register:33:Enter username
+2023-08-15 18:32:18,345:20:Test_Register:test_register:35:Enter Password
+2023-08-15 18:32:18,426:20:Test_Register:test_register:37:Enter confirm-password
+2023-08-15 18:32:18,982:20:Test_Register:test_register:39:Click confirm button
+2023-08-15 18:32:19,037:20:Test_Register:test_register:43:Registration is completed
+
+2023-08-15 18:40:01,822:20:Test_Register:test_register:12:Open browser
+2023-08-15 18:40:02,859:20:Test_Register:test_register:15:Click on Register
+2023-08-15 18:40:03,017:20:Test_Register:test_register:17:Enter First-Name
+2023-08-15 18:40:03,135:20:Test_Register:test_register:19:Enter Last-Name
+2023-08-15 18:40:03,308:20:Test_Register:test_register:21:Enter Address
+2023-08-15 18:40:03,390:20:Test_Register:test_register:23:Enter City
+2023-08-15 18:40:03,472:20:Test_Register:test_register:25:Enter State
+2023-08-15 18:40:03,548:20:Test_Register:test_register:27:Enter Zip
+2023-08-15 18:40:03,627:20:Test_Register:test_register:29:Enter Phone number
+2023-08-15 18:40:03,724:20:Test_Register:test_register:31:Enter SSN
+2023-08-15 18:40:03,801:20:Test_Register:test_register:33:Enter username
+2023-08-15 18:40:03,879:20:Test_Register:test_register:35:Enter Password
+2023-08-15 18:40:03,963:20:Test_Register:test_register:37:Enter confirm-password
+2023-08-15 18:40:04,454:20:Test_Register:test_register:39:Click confirm button
+2023-08-15 18:40:04,489:20:Test_Register:test_register:49:Registration is failed
+
+2023-08-15 18:40:44,266:20:Test_Register:test_register:12:Open browser
+2023-08-15 18:40:45,754:20:Test_Register:test_register:15:Click on Register
+2023-08-15 18:40:45,958:20:Test_Register:test_register:17:Enter First-Name
+2023-08-15 18:40:46,116:20:Test_Register:test_register:19:Enter Last-Name
+2023-08-15 18:40:46,298:20:Test_Register:test_register:21:Enter Address
+2023-08-15 18:40:46,384:20:Test_Register:test_register:23:Enter City
+2023-08-15 18:40:46,518:20:Test_Register:test_register:25:Enter State
+2023-08-15 18:40:46,632:20:Test_Register:test_register:27:Enter Zip
+2023-08-15 18:40:46,762:20:Test_Register:test_register:29:Enter Phone number
+2023-08-15 18:40:46,886:20:Test_Register:test_register:31:Enter SSN
+2023-08-15 18:40:46,964:20:Test_Register:test_register:33:Enter username
+2023-08-15 18:40:47,040:20:Test_Register:test_register:35:Enter Password
+2023-08-15 18:40:47,120:20:Test_Register:test_register:37:Enter confirm-password
+2023-08-15 18:40:47,700:20:Test_Register:test_register:39:Click confirm button
+2023-08-15 18:40:47,742:20:Test_Register:test_register:43:Registration is completed
+
+2023-08-25 14:28:36,196:20:Test_Register:test_register:12:Open browser
+2023-08-25 14:28:41,677:20:Test_Register:test_register:15:Click on Register
+2023-08-25 14:28:41,836:20:Test_Register:test_register:17:Enter First-Name
+2023-08-25 14:28:41,908:20:Test_Register:test_register:19:Enter Last-Name
+2023-08-25 14:28:42,055:20:Test_Register:test_register:21:Enter Address
+2023-08-25 14:28:42,206:20:Test_Register:test_register:23:Enter City
+2023-08-25 14:28:42,320:20:Test_Register:test_register:25:Enter State
+2023-08-25 14:28:42,430:20:Test_Register:test_register:27:Enter Zip
+2023-08-25 14:28:42,565:20:Test_Register:test_register:29:Enter Phone number
+2023-08-25 14:28:42,675:20:Test_Register:test_register:31:Enter SSN
+2023-08-25 14:28:42,801:20:Test_Register:test_register:33:Enter username
+2023-08-25 14:28:42,886:20:Test_Register:test_register:35:Enter Password
+2023-08-25 14:28:43,010:20:Test_Register:test_register:37:Enter confirm-password
+2023-08-25 14:29:07,110:20:Test_Register:test_register:39:Click confirm button
+2023-08-25 14:29:07,187:20:Test_Register:test_register:42:Registration is completed
+
+2023-08-25 14:29:48,477:20:Test_Register:test_register:12:Open browser
+2023-08-25 14:30:01,669:20:Test_Register:test_register:15:Click on Register
+2023-08-25 14:30:01,778:20:Test_Register:test_register:17:Enter First-Name
+2023-08-25 14:30:01,860:20:Test_Register:test_register:19:Enter Last-Name
+2023-08-25 14:30:01,988:20:Test_Register:test_register:21:Enter Address
+2023-08-25 14:30:02,066:20:Test_Register:test_register:23:Enter City
+2023-08-25 14:30:02,155:20:Test_Register:test_register:25:Enter State
+2023-08-25 14:30:02,231:20:Test_Register:test_register:27:Enter Zip
+2023-08-25 14:30:02,315:20:Test_Register:test_register:29:Enter Phone number
+2023-08-25 14:30:02,437:20:Test_Register:test_register:31:Enter SSN
+2023-08-25 14:30:02,509:20:Test_Register:test_register:33:Enter username
+2023-08-25 14:30:02,640:20:Test_Register:test_register:35:Enter Password
+2023-08-25 14:30:02,789:20:Test_Register:test_register:37:Enter confirm-password
+2023-08-25 14:30:04,660:20:Test_Register:test_register:39:Click confirm button
+2023-08-25 14:30:04,681:20:Test_Register:test_register:48:Registration is failed
+
+2023-09-01 16:25:22,608:20:Test_Register:test_register:12:Open browser
+2023-09-01 16:25:23,301:20:Test_Register:test_register:15:Click on Register
+2023-09-01 16:25:23,459:20:Test_Register:test_register:17:Enter First-Name
+2023-09-01 16:25:23,559:20:Test_Register:test_register:19:Enter Last-Name
+2023-09-01 16:25:23,740:20:Test_Register:test_register:21:Enter Address
+2023-09-01 16:25:23,820:20:Test_Register:test_register:23:Enter City
+2023-09-01 16:25:23,908:20:Test_Register:test_register:25:Enter State
+2023-09-01 16:25:24,042:20:Test_Register:test_register:27:Enter Zip
+2023-09-01 16:25:24,144:20:Test_Register:test_register:29:Enter Phone number
+2023-09-01 16:25:24,219:20:Test_Register:test_register:31:Enter SSN
+2023-09-01 16:25:24,298:20:Test_Register:test_register:33:Enter username
+2023-09-01 16:25:24,395:20:Test_Register:test_register:35:Enter Password
+2023-09-01 16:25:24,481:20:Test_Register:test_register:37:Enter confirm-password
+2023-09-01 16:25:25,008:20:Test_Register:test_register:39:Click confirm button
+2023-09-01 16:25:25,031:20:Test_Register:test_register:42:Registration is completed
+
+2023-09-01 16:25:58,163:20:Test_Register:test_register:12:Open browser
+2023-09-01 16:25:59,133:20:Test_Register:test_register:15:Click on Register
+2023-09-01 16:25:59,304:20:Test_Register:test_register:17:Enter First-Name
+2023-09-01 16:25:59,420:20:Test_Register:test_register:19:Enter Last-Name
+2023-09-01 16:25:59,527:20:Test_Register:test_register:21:Enter Address
+2023-09-01 16:25:59,608:20:Test_Register:test_register:23:Enter City
+2023-09-01 16:25:59,691:20:Test_Register:test_register:25:Enter State
+2023-09-01 16:25:59,771:20:Test_Register:test_register:27:Enter Zip
+2023-09-01 16:25:59,851:20:Test_Register:test_register:29:Enter Phone number
+2023-09-01 16:25:59,949:20:Test_Register:test_register:31:Enter SSN
+2023-09-01 16:26:00,041:20:Test_Register:test_register:33:Enter username
+2023-09-01 16:26:00,122:20:Test_Register:test_register:35:Enter Password
+2023-09-01 16:26:00,202:20:Test_Register:test_register:37:Enter confirm-password
+2023-09-01 16:26:00,877:20:Test_Register:test_register:39:Click confirm button
+2023-09-01 16:26:00,892:20:Test_Register:test_register:48:Registration is failed
+
+2023-09-01 18:45:20,198:20:Test_Login_DDT:test_login_ddt:11:Opening browser
+2023-09-01 18:45:20,365:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:45:20,440:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:45:21,412:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:45:21,651:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:45:22,562:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:45:22,643:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:45:22,714:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:45:23,527:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:45:23,807:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:45:24,618:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:45:24,694:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:45:24,758:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:45:25,542:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:45:25,854:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:45:26,649:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:45:26,728:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:45:26,792:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:45:27,597:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:45:27,840:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:45:28,624:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:45:28,704:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:45:28,774:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:45:29,556:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:45:29,809:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:45:30,590:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:45:30,693:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:45:30,758:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:45:31,591:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:45:31,861:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:45:32,656:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:45:32,658:20:Test_Login_DDT:test_login_ddt:50:Test is completed
+
+2023-09-01 18:47:39,643:20:Test_Login_DDT:test_login_ddt:11:
+Opening browser
+2023-09-01 18:47:39,803:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:47:39,881:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:47:40,931:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:47:41,171:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:47:42,091:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:47:42,169:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:47:42,234:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:47:43,077:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:47:43,353:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:47:44,157:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:47:44,234:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:47:44,300:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:47:45,133:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:47:45,392:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:47:46,226:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:47:46,307:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:47:46,372:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:47:47,211:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:47:47,470:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:47:48,356:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:47:48,426:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:47:48,497:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:47:49,349:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:47:49,608:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:47:50,423:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:47:50,509:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:47:50,568:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:47:51,419:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:47:51,699:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:47:52,534:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:47:52,535:20:Test_Login_DDT:test_login_ddt:50:Test is completed
+
+2023-09-01 18:48:32,034:20:Test_Login_DDT:test_login_ddt:11:Opening browser
+2023-09-01 18:48:32,183:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:48:32,257:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:48:33,250:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:48:33,492:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:48:35,100:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:48:35,190:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:48:35,268:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:48:36,031:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:48:36,299:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:48:37,118:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:48:37,197:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:48:37,267:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:48:38,070:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:48:38,316:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:48:39,119:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:48:39,197:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:48:39,264:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:48:40,050:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:48:40,318:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:48:41,137:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:48:41,212:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:48:41,279:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:48:42,052:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:48:42,350:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:48:43,170:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:48:43,285:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-01 18:48:43,371:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-01 18:48:44,217:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-01 18:48:44,444:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-01 18:48:45,245:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-01 18:48:45,246:20:Test_Login_DDT:test_login_ddt:50:Test is completed
+
+2023-09-04 20:28:06,614:20:Test_Register:test_register:12:Open browser
+2023-09-04 20:28:07,349:20:Test_Register:test_register:15:Click on Register
+2023-09-04 20:28:07,497:20:Test_Register:test_register:17:Enter First-Name
+2023-09-04 20:28:07,594:20:Test_Register:test_register:19:Enter Last-Name
+2023-09-04 20:28:07,700:20:Test_Register:test_register:21:Enter Address
+2023-09-04 20:28:07,780:20:Test_Register:test_register:23:Enter City
+2023-09-04 20:28:07,882:20:Test_Register:test_register:25:Enter State
+2023-09-04 20:28:07,963:20:Test_Register:test_register:27:Enter Zip
+2023-09-04 20:28:08,051:20:Test_Register:test_register:29:Enter Phone number
+2023-09-04 20:28:08,128:20:Test_Register:test_register:31:Enter SSN
+2023-09-04 20:28:08,209:20:Test_Register:test_register:33:Enter username
+2023-09-04 20:28:08,287:20:Test_Register:test_register:35:Enter Password
+2023-09-04 20:28:08,374:20:Test_Register:test_register:37:Enter confirm-password
+2023-09-04 20:28:08,990:20:Test_Register:test_register:39:Click confirm button
+2023-09-04 20:28:09,017:20:Test_Register:test_register:42:Registration is completed
+
+2023-09-04 20:28:30,498:20:Test_Register:test_register:12:Open browser
+2023-09-04 20:28:31,132:20:Test_Register:test_register:15:Click on Register
+2023-09-04 20:28:31,224:20:Test_Register:test_register:17:Enter First-Name
+2023-09-04 20:28:31,292:20:Test_Register:test_register:19:Enter Last-Name
+2023-09-04 20:28:31,377:20:Test_Register:test_register:21:Enter Address
+2023-09-04 20:28:31,453:20:Test_Register:test_register:23:Enter City
+2023-09-04 20:28:31,538:20:Test_Register:test_register:25:Enter State
+2023-09-04 20:28:31,641:20:Test_Register:test_register:27:Enter Zip
+2023-09-04 20:28:31,743:20:Test_Register:test_register:29:Enter Phone number
+2023-09-04 20:28:31,816:20:Test_Register:test_register:31:Enter SSN
+2023-09-04 20:28:31,895:20:Test_Register:test_register:33:Enter username
+2023-09-04 20:28:31,994:20:Test_Register:test_register:35:Enter Password
+2023-09-04 20:28:32,082:20:Test_Register:test_register:37:Enter confirm-password
+2023-09-04 20:28:32,557:20:Test_Register:test_register:39:Click confirm button
+2023-09-04 20:28:32,575:20:Test_Register:test_register:48:Registration is failed
+
+2023-09-04 20:29:34,543:20:Test_Register:test_register:12:Open browser
+2023-09-04 20:29:36,226:20:Test_Register:test_register:15:Click on Register
+2023-09-04 20:29:36,343:20:Test_Register:test_register:17:Enter First-Name
+2023-09-04 20:29:36,426:20:Test_Register:test_register:19:Enter Last-Name
+2023-09-04 20:29:36,538:20:Test_Register:test_register:21:Enter Address
+2023-09-04 20:29:36,611:20:Test_Register:test_register:23:Enter City
+2023-09-04 20:29:36,680:20:Test_Register:test_register:25:Enter State
+2023-09-04 20:29:36,760:20:Test_Register:test_register:27:Enter Zip
+2023-09-04 20:29:36,846:20:Test_Register:test_register:29:Enter Phone number
+2023-09-04 20:29:36,903:20:Test_Register:test_register:31:Enter SSN
+2023-09-04 20:29:36,971:20:Test_Register:test_register:33:Enter username
+2023-09-04 20:29:37,043:20:Test_Register:test_register:35:Enter Password
+2023-09-04 20:29:37,140:20:Test_Register:test_register:37:Enter confirm-password
+2023-09-04 20:29:38,413:20:Test_Register:test_register:39:Click confirm button
+2023-09-04 20:29:38,430:20:Test_Register:test_register:48:Registration is failed
+
+2023-09-04 20:30:24,476:20:Test_Login_DDT:test_login_ddt:11:Opening browser
+2023-09-04 20:30:24,637:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:30:24,725:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:30:25,189:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:30:25,769:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:30:25,850:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:30:25,911:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:30:26,434:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:30:26,680:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:30:26,768:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:30:26,829:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:30:27,324:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:30:27,585:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:30:27,667:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:30:27,732:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:30:28,150:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:30:28,454:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:30:28,543:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:30:28,605:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:30:29,021:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:30:29,301:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:30:29,383:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:30:29,445:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:30:29,895:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:30:30,144:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:30:30,168:20:Test_Login_DDT:test_login_ddt:54:Test is completed
+
+2023-09-04 20:32:08,314:20:Test_Login_DDT:test_login_ddt:11:Opening browser
+2023-09-04 20:32:08,461:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:32:08,540:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:32:09,168:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:32:09,424:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:32:09,503:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:32:09,563:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:32:10,010:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:32:10,303:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:32:10,389:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:32:10,451:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:32:10,914:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:32:11,182:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:32:11,265:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:32:11,331:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:32:11,748:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:32:12,098:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:32:12,189:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:32:12,255:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:32:12,671:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:32:12,963:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:32:13,047:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:32:13,105:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:32:13,549:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:32:13,792:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:32:13,815:20:Test_Login_DDT:test_login_ddt:54:Test is failed
+
+2023-09-04 20:49:44,941:20:Test_Login_DDT:test_login_ddt:11:Opening browser
+2023-09-04 20:49:45,180:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:49:45,278:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:49:46,193:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:49:46,507:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:49:46,643:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:49:46,721:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:49:47,255:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:49:47,547:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:49:47,682:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:49:47,761:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:49:48,277:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:49:48,716:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:49:48,860:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:49:48,936:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:49:49,480:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:49:49,872:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:49:50,003:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:49:50,082:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:49:50,608:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:49:50,994:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:49:51,131:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-04 20:49:51,203:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-04 20:49:51,738:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-04 20:49:52,150:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-04 20:49:52,191:20:Test_Login_DDT:test_login_ddt:54:Test is failed
+
+2023-09-07 12:51:06,318:20:Test_Login_DDT:test_login_ddt:11:Opening browser
+2023-09-07 12:51:06,507:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:51:06,584:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:51:07,551:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:51:07,708:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-07 12:51:08,567:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-07 12:51:08,655:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:51:08,718:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:51:09,535:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:51:09,705:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-07 12:51:10,476:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-07 12:51:10,535:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:51:10,590:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:51:11,405:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:51:11,582:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-07 12:51:13,157:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-07 12:51:13,217:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:51:13,270:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:51:13,740:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:51:13,925:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:51:14,010:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:51:14,067:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:51:14,466:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:51:14,623:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:51:14,709:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:51:14,796:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:51:15,263:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:51:15,441:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:51:15,460:20:Test_Login_DDT:test_login_ddt:54:Test is failed
+
+2023-09-07 12:51:23,296:20:Test_Register:test_register:12:Open browser
+2023-09-07 12:51:25,887:20:Test_Register:test_register:15:Click on Register
+2023-09-07 12:51:25,975:20:Test_Register:test_register:17:Enter First-Name
+2023-09-07 12:51:26,037:20:Test_Register:test_register:19:Enter Last-Name
+2023-09-07 12:51:26,117:20:Test_Register:test_register:21:Enter Address
+2023-09-07 12:51:26,219:20:Test_Register:test_register:23:Enter City
+2023-09-07 12:51:26,303:20:Test_Register:test_register:25:Enter State
+2023-09-07 12:51:26,362:20:Test_Register:test_register:27:Enter Zip
+2023-09-07 12:51:26,424:20:Test_Register:test_register:29:Enter Phone number
+2023-09-07 12:51:26,482:20:Test_Register:test_register:31:Enter SSN
+2023-09-07 12:51:26,542:20:Test_Register:test_register:33:Enter username
+2023-09-07 12:51:26,606:20:Test_Register:test_register:35:Enter Password
+2023-09-07 12:51:26,672:20:Test_Register:test_register:37:Enter confirm-password
+2023-09-07 12:51:27,140:20:Test_Register:test_register:39:Click confirm button
+2023-09-07 12:51:27,158:20:Test_Register:test_register:42:Registration is completed
+
+2023-09-07 12:53:48,081:20:Test_Login_DDT:test_login_ddt:11:Opening browser
+2023-09-07 12:53:48,195:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:53:48,262:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:53:49,307:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:53:49,536:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-07 12:53:50,507:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-07 12:53:50,573:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:53:50,640:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:53:51,039:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:53:51,337:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:53:51,422:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:53:51,481:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:53:51,936:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:53:52,186:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:53:52,273:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:53:52,339:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:53:52,796:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:53:53,012:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:53:53,094:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:53:53,168:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:53:53,593:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:53:53,854:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:53:53,942:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:53:54,009:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:53:54,423:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:53:54,720:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:53:54,753:20:Test_Login_DDT:test_login_ddt:54:Test is failed
+
+2023-09-07 12:55:02,392:20:Test_Login_DDT:test_login_ddt:11:Opening browser
+2023-09-07 12:55:02,488:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:55:02,558:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:55:03,526:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:55:03,754:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-07 12:55:04,705:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-07 12:55:04,770:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:55:04,833:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:55:05,218:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:55:05,395:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:55:05,476:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:55:05,535:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:55:05,945:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:55:06,113:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:55:06,206:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:55:06,261:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:55:06,674:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:55:06,873:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:55:06,951:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:55:07,008:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:55:07,437:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:55:07,588:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:55:07,670:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:55:07,724:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:55:08,122:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:55:08,283:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:55:08,304:20:Test_Login_DDT:test_login_ddt:54:Test is failed
+
+2023-09-07 12:56:30,948:20:Test_Login_DDT:test_login_ddt:11:Opening browser
+2023-09-07 12:56:31,012:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:56:31,030:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:56:32,113:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:56:32,246:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-07 12:56:33,215:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-07 12:56:33,246:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:56:33,263:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:56:33,696:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:56:33,762:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:56:33,812:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:56:33,829:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:56:34,262:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:56:34,329:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:56:34,380:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:56:34,380:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:56:34,830:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:56:34,879:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:56:34,929:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:56:34,946:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:56:35,378:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:56:35,429:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:56:35,496:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:56:35,496:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:56:35,946:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:56:35,996:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:56:36,012:20:Test_Login_DDT:test_login_ddt:54:Test is failed
+
+2023-09-07 12:58:06,642:20:Test_Login_DDT:test_login_ddt:11:Opening browser
+2023-09-07 12:58:06,799:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:58:06,876:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:58:07,878:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:58:08,106:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-07 12:58:09,042:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-07 12:58:09,106:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:58:09,174:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:58:09,559:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:58:09,907:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:58:09,995:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:58:10,060:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:58:10,449:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:58:10,705:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:58:10,795:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:58:10,857:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:58:11,279:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:58:11,571:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:58:11,658:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:58:11,721:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:58:12,139:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:58:12,382:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:58:12,471:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 12:58:12,526:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 12:58:12,910:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 12:58:13,133:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 12:58:13,156:20:Test_Login_DDT:test_login_ddt:54:Test is failed
+
+2023-09-07 13:00:40,670:20:Test_Login_DDT:test_login_ddt:11:Opening browser
+2023-09-07 13:00:40,806:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:00:40,888:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:00:41,863:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:00:42,058:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-07 13:00:42,911:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-07 13:00:43,002:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:00:43,069:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:00:43,509:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:00:43,675:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 13:00:43,792:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:00:43,860:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:00:44,237:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:00:44,408:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 13:00:44,510:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:00:44,588:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:00:45,027:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:00:45,197:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 13:00:45,301:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:00:45,370:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:00:45,788:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:00:45,952:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 13:00:46,057:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:00:46,127:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:00:46,526:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:00:46,685:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 13:00:46,709:20:Test_Login_DDT:test_login_ddt:54:Test is failed
+
+2023-09-07 13:03:34,184:20:Test_Login_DDT:test_login_ddt:11:Opening browser
+2023-09-07 13:03:34,327:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:03:34,426:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:03:35,397:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:03:35,570:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-07 13:03:36,530:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-07 13:03:36,597:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:03:36,680:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:03:37,133:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:03:37,312:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 13:03:37,417:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:03:37,505:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:03:37,893:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:03:38,095:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 13:03:38,210:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:03:38,281:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:03:38,685:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:03:38,928:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 13:03:39,078:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:03:39,195:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:03:39,628:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:03:39,845:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 13:03:39,959:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:03:40,035:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:03:40,429:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:03:40,619:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 13:03:40,650:20:Test_Login_DDT:test_login_ddt:54:Test is failed
+
+2023-09-07 13:10:53,263:20:Test_Login_DDT:test_login_ddt:11:Opening browser
+2023-09-07 13:10:53,392:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:10:53,470:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:10:54,338:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:10:54,510:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-07 13:10:55,321:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-07 13:10:55,384:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:10:55,439:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:10:55,854:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:10:56,000:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 13:10:56,093:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:10:56,159:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:10:56,538:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:10:56,712:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 13:10:56,802:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:10:56,869:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:10:57,262:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:10:57,426:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 13:10:57,533:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:10:57,601:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:10:57,989:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:10:58,160:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 13:10:58,254:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-07 13:10:58,320:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-07 13:10:58,745:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-07 13:10:58,901:20:Test_Login_DDT:test_login_ddt:42:Take screenshot
+2023-09-07 13:10:58,924:20:Test_Login_DDT:test_login_ddt:54:Test is failed
+
+2023-09-12 12:39:01,833:20:Test_Login_DDT:test_login_ddt:11:Opening browser
+2023-09-12 12:39:02,178:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-12 12:39:02,325:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-12 12:39:04,211:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-12 12:39:04,469:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-12 12:39:05,759:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-12 12:39:05,876:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-12 12:39:05,945:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-12 12:39:07,561:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-12 12:39:07,735:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-12 12:39:08,571:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-12 12:39:08,643:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-12 12:39:08,713:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-12 12:39:10,292:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-12 12:39:10,602:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-12 12:39:11,629:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-12 12:39:11,691:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-12 12:39:11,793:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-12 12:39:13,337:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-12 12:39:13,641:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-12 12:39:14,626:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-12 12:39:14,682:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-12 12:39:14,807:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-12 12:39:16,942:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-12 12:39:17,127:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-12 12:39:18,141:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-12 12:39:18,209:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-12 12:39:18,276:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-12 12:39:20,246:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-12 12:39:20,503:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-12 12:39:21,591:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-12 12:39:21,591:20:Test_Login_DDT:test_login_ddt:50:Test is passed
+
+2023-09-12 13:06:09,653:20:Test_Login_DDT:test_login_ddt:11:Opening browser
+2023-09-12 13:06:09,854:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-12 13:06:10,015:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-12 13:06:11,709:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-12 13:06:12,131:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-12 13:06:13,286:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-12 13:06:13,410:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-12 13:06:13,504:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-12 13:06:15,021:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-12 13:06:15,356:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-12 13:06:16,354:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-12 13:06:16,498:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-12 13:06:16,651:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-12 13:06:18,321:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-12 13:06:18,649:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-12 13:06:19,628:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-12 13:06:19,761:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-12 13:06:19,913:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-12 13:06:21,350:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-12 13:06:21,670:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-12 13:06:22,632:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-12 13:06:22,766:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-12 13:06:22,920:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-12 13:06:24,456:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-12 13:06:24,802:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-12 13:06:25,741:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-12 13:06:25,853:20:Test_Login_DDT:test_login_ddt:21:Enter Username
+2023-09-12 13:06:25,939:20:Test_Login_DDT:test_login_ddt:23:Enter Password
+2023-09-12 13:06:27,441:20:Test_Login_DDT:test_login_ddt:25:Click login
+2023-09-12 13:06:27,781:20:Test_Login_DDT:test_login_ddt:30:Take screenshot
+2023-09-12 13:06:28,697:20:Test_Login_DDT:test_login_ddt:36:Click Logout
+2023-09-12 13:06:28,697:20:Test_Login_DDT:test_login_ddt:50:Test is passed
+

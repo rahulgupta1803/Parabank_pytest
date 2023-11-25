@@ -1,0 +1,118 @@
+{
+  "uid" : "9dbbb141500beb8c",
+  "name" : "test_login_ddt",
+  "fullName" : "testcases.test_login_ddt.Test_Login_DDT#test_login_ddt",
+  "historyId" : "30a98900d001c0337497cbd4d193b1e6",
+  "time" : {
+    "start" : 1694071266318,
+    "stop" : 1694071275462,
+    "duration" : 9144
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert False",
+  "statusTrace" : "self = <testcases.test_login_ddt.Test_Login_DDT object at 0x000001EFB84B0310>\nsetup = <selenium.webdriver.chrome.webdriver.WebDriver (session=\"52c945789677319777d54d1a2a0a988f\")>\n\n    def test_login_ddt(self,setup):\n        self.driver = setup\n        self.log.info(\"Opening browser\")\n        self.lp = Login(self.driver)\n        rl= xlutilis.RowCount(self.fpath,'Sheet1')\n        print(rl)\n        status_list = []\n        for r in range(2,rl+1):\n            username = xlutilis.ReadData(self.fpath,'Sheet1',r,2)\n            password = xlutilis.ReadData(self.fpath,'Sheet1',r,3)\n            exp_result = xlutilis.ReadData(self.fpath,'Sheet1',r,4)\n            self.lp.Enter_Username(username)\n            self.log.info(\"Enter Username\")\n            self.lp.Enter_Password(password)\n            self.log.info(\"Enter Password\")\n            self.lp.Click_Login()\n            self.log.info(\"Click login\")\n            if self.lp.Status() == True:\n                status_list.append('pass')\n                xlutilis.WriteData(self.fpath, 'Sheet1', r, 5, 'pass')\n                self.driver.save_screenshot(f\".\\\\screenshots\\\\{username}_{password}.png\")\n                self.log.info(\"Take screenshot\")\n                if exp_result=='pass':\n                    xlutilis.WriteData(self.fpath,'Sheet1',r,6,'pass')\n                else:\n                    xlutilis.WriteData(self.fpath, 'Sheet1', r, 6, 'fail')\n                self.lp.Click_Logout()\n                self.log.info(\"Click Logout\")\n    \n            elif self.lp.Status() == False:\n                xlutilis.WriteData(self.fpath, 'Sheet1', r, 5, 'fail')\n                status_list.append('fail')\n                self.driver.save_screenshot(f\".\\\\screenshots\\\\{username}_{password}.png\")\n                self.log.info(\"Take screenshot\")\n                if exp_result == 'pass':\n                    xlutilis.WriteData(self.fpath, 'Sheet1', r, 5, 'fail')\n                else:\n                    xlutilis.WriteData(self.fpath, 'Sheet1', r, 5, 'pass')\n    \n        print(status_list)\n        if 'fail' not in status_list:\n            self.log.info(\"Test is passed\\n\")\n            assert True\n    \n        else:\n            self.log.info(\"Test is failed\\n\")\n>           assert False\nE           assert False\n\ntestcases\\test_login_ddt.py:55: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1694071253868,
+      "stop" : 1694071266316,
+      "duration" : 12448
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "browser",
+    "time" : {
+      "start" : 1694071253868,
+      "stop" : 1694071253868,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert False",
+    "statusTrace" : "self = <testcases.test_login_ddt.Test_Login_DDT object at 0x000001EFB84B0310>\nsetup = <selenium.webdriver.chrome.webdriver.WebDriver (session=\"52c945789677319777d54d1a2a0a988f\")>\n\n    def test_login_ddt(self,setup):\n        self.driver = setup\n        self.log.info(\"Opening browser\")\n        self.lp = Login(self.driver)\n        rl= xlutilis.RowCount(self.fpath,'Sheet1')\n        print(rl)\n        status_list = []\n        for r in range(2,rl+1):\n            username = xlutilis.ReadData(self.fpath,'Sheet1',r,2)\n            password = xlutilis.ReadData(self.fpath,'Sheet1',r,3)\n            exp_result = xlutilis.ReadData(self.fpath,'Sheet1',r,4)\n            self.lp.Enter_Username(username)\n            self.log.info(\"Enter Username\")\n            self.lp.Enter_Password(password)\n            self.log.info(\"Enter Password\")\n            self.lp.Click_Login()\n            self.log.info(\"Click login\")\n            if self.lp.Status() == True:\n                status_list.append('pass')\n                xlutilis.WriteData(self.fpath, 'Sheet1', r, 5, 'pass')\n                self.driver.save_screenshot(f\".\\\\screenshots\\\\{username}_{password}.png\")\n                self.log.info(\"Take screenshot\")\n                if exp_result=='pass':\n                    xlutilis.WriteData(self.fpath,'Sheet1',r,6,'pass')\n                else:\n                    xlutilis.WriteData(self.fpath, 'Sheet1', r, 6, 'fail')\n                self.lp.Click_Logout()\n                self.log.info(\"Click Logout\")\n    \n            elif self.lp.Status() == False:\n                xlutilis.WriteData(self.fpath, 'Sheet1', r, 5, 'fail')\n                status_list.append('fail')\n                self.driver.save_screenshot(f\".\\\\screenshots\\\\{username}_{password}.png\")\n                self.log.info(\"Take screenshot\")\n                if exp_result == 'pass':\n                    xlutilis.WriteData(self.fpath, 'Sheet1', r, 5, 'fail')\n                else:\n                    xlutilis.WriteData(self.fpath, 'Sheet1', r, 5, 'pass')\n    \n        print(status_list)\n        if 'fail' not in status_list:\n            self.log.info(\"Test is passed\\n\")\n            assert True\n    \n        else:\n            self.log.info(\"Test is failed\\n\")\n>           assert False\nE           assert False\n\ntestcases\\test_login_ddt.py:55: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cea1b77cbc023108",
+      "name" : "log",
+      "source" : "cea1b77cbc023108.txt",
+      "type" : "text/plain",
+      "size" : 1722
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ {
+    "name" : "setup::0",
+    "time" : {
+      "start" : 1694071275469,
+      "stop" : 1694071277840,
+      "duration" : 2371
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login_ddt"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Login_DDT"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-R8T5E19"
+  }, {
+    "name" : "thread",
+    "value" : "7476-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_login_ddt"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9dbbb141500beb8c.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://localhost:8080/",
+  "buildOrder" : 1,
+  "buildName" : "Parabank_pytest_project_jenkins #1",
+  "buildUrl" : "http://localhost:8080/job/Parabank_pytest_project_jenkins/1/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://localhost:8080/job/Parabank_pytest_project_jenkins/1/allure"
+} ]

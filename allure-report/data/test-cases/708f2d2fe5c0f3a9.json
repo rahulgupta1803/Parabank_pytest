@@ -1,0 +1,238 @@
+{
+  "uid" : "708f2d2fe5c0f3a9",
+  "name" : "test_login_ddt",
+  "fullName" : "testcases.test_login_ddt.Test_Login_DDT#test_login_ddt",
+  "historyId" : "30a98900d001c0337497cbd4d193b1e6",
+  "time" : {
+    "start" : 1694504169652,
+    "stop" : 1694504188698,
+    "duration" : 19046
+  },
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1694504159631,
+      "stop" : 1694504169651,
+      "duration" : 10020
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "browser",
+    "time" : {
+      "start" : 1694504159631,
+      "stop" : 1694504159631,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "313da8b137c84454",
+      "name" : "log",
+      "source" : "313da8b137c84454.txt",
+      "type" : "text/plain",
+      "size" : 1896
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "setup::0",
+    "time" : {
+      "start" : 1694504188698,
+      "stop" : 1694504191023,
+      "duration" : 2325
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login_ddt"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Login_DDT"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-R8T5E19"
+  }, {
+    "name" : "thread",
+    "value" : "1424-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_login_ddt"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "827b579ffd9bb103",
+      "status" : "passed",
+      "time" : {
+        "start" : 1694502541832,
+        "stop" : 1694502561591,
+        "duration" : 19759
+      }
+    }, {
+      "uid" : "875aaead873113da",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False",
+      "time" : {
+        "start" : 1694072453262,
+        "stop" : 1694072458925,
+        "duration" : 5663
+      }
+    }, {
+      "uid" : "3e676102758548e0",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 114\nCurrent browser version is 116.0.5845.180 with binary path C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\nStacktrace:\nBacktrace:\n\tGetHandleVerifier [0x0075A813+48355]\n\t(No symbol) [0x006EC4B1]\n\t(No symbol) [0x005F5358]\n\t(No symbol) [0x006161AC]\n\t(No symbol) [0x00611EF3]\n\t(No symbol) [0x00610579]\n\t(No symbol) [0x00640C55]\n\t(No symbol) [0x0064093C]\n\t(No symbol) [0x0063A536]\n\t(No symbol) [0x006182DC]\n\t(No symbol) [0x006193DD]\n\tGetHandleVerifier [0x009BAABD+2539405]\n\tGetHandleVerifier [0x009FA78F+2800735]\n\tGetHandleVerifier [0x009F456C+2775612]\n\tGetHandleVerifier [0x007E51E0+616112]\n\t(No symbol) [0x006F5F8C]\n\t(No symbol) [0x006F2328]\n\t(No symbol) [0x006F240B]\n\t(No symbol) [0x006E4FF7]\n\tBaseThreadInitThunk [0x768200C9+25]\n\tRtlGetAppContainerNamedObjectPath [0x77BA7B1E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77BA7AEE+238]",
+      "time" : {
+        "start" : 1694072397101,
+        "stop" : 1694072397101,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d66b9614ffdc150c",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: msedge failed to start: crashed.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from msedge location C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe is no longer running, so msedgedriver is assuming that msedge has crashed.)\nStacktrace:\n\tGetHandleVerifier [0x00007FF701A43DB2+61490]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7019D6002+740642]\n\t(No symbol) [0x00007FF7017AB8AE]\n\t(No symbol) [0x00007FF7017DCBFE]\n\t(No symbol) [0x00007FF7017D7F13]\n\t(No symbol) [0x00007FF70181B7F8]\n\t(No symbol) [0x00007FF7018136E3]\n\t(No symbol) [0x00007FF7017E5EAA]\n\t(No symbol) [0x00007FF7017E518B]\n\t(No symbol) [0x00007FF7017E6634]\n\tMicrosoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF701C08D69+1207369]\n\t(No symbol) [0x00007FF701865304]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7019290F1+32273]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7019219E9+1801]\n\tMicrosoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF701C07944+1202212]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7019DE998+19784]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7019DAE54+4612]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7019DAF86+4918]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7019CF451+713073]\n\tBaseThreadInitThunk [0x00007FFE1F047614+20]\n\tRtlUserThreadStart [0x00007FFE1F4E26B1+33]",
+      "time" : {
+        "start" : 1694072131215,
+        "stop" : 1694072131215,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "56110c16e5722b56",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False",
+      "time" : {
+        "start" : 1694072014185,
+        "stop" : 1694072020651,
+        "duration" : 6466
+      }
+    }, {
+      "uid" : "750edc1aaa184283",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False",
+      "time" : {
+        "start" : 1694071840669,
+        "stop" : 1694071846709,
+        "duration" : 6040
+      }
+    }, {
+      "uid" : "bb621ff0c667ac9c",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False",
+      "time" : {
+        "start" : 1694071686642,
+        "stop" : 1694071693156,
+        "duration" : 6514
+      }
+    }, {
+      "uid" : "9dbbb141500beb8c",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False",
+      "time" : {
+        "start" : 1694071266318,
+        "stop" : 1694071275462,
+        "duration" : 9144
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 2,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "fb295e4aeb673fe5",
+        "reportUrl" : "http://localhost:8081/job/Parabank_Pytest_Jenkins/8/allure/#testresult/fb295e4aeb673fe5",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert False",
+        "time" : {
+          "start" : 1694072453262,
+          "stop" : 1694072458925,
+          "duration" : 5663
+        }
+      }, {
+        "uid" : "1e44f59a30842a7c",
+        "reportUrl" : "http://localhost:8081/job/Parabank_Pytest_Jenkins/7/allure/#testresult/1e44f59a30842a7c",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 114\nCurrent browser version is 116.0.5845.180 with binary path C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\nStacktrace:\nBacktrace:\n\tGetHandleVerifier [0x0075A813+48355]\n\t(No symbol) [0x006EC4B1]\n\t(No symbol) [0x005F5358]\n\t(No symbol) [0x006161AC]\n\t(No symbol) [0x00611EF3]\n\t(No symbol) [0x00610579]\n\t(No symbol) [0x00640C55]\n\t(No symbol) [0x0064093C]\n\t(No symbol) [0x0063A536]\n\t(No symbol) [0x006182DC]\n\t(No symbol) [0x006193DD]\n\tGetHandleVerifier [0x009BAABD+2539405]\n\tGetHandleVerifier [0x009FA78F+2800735]\n\tGetHandleVerifier [0x009F456C+2775612]\n\tGetHandleVerifier [0x007E51E0+616112]\n\t(No symbol) [0x006F5F8C]\n\t(No symbol) [0x006F2328]\n\t(No symbol) [0x006F240B]\n\t(No symbol) [0x006E4FF7]\n\tBaseThreadInitThunk [0x768200C9+25]\n\tRtlGetAppContainerNamedObjectPath [0x77BA7B1E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77BA7AEE+238]",
+        "time" : {
+          "start" : 1694072397101,
+          "stop" : 1694072397101,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "d0ef529d98d72920",
+        "reportUrl" : "http://localhost:8081/job/Parabank_Pytest_Jenkins/6/allure/#testresult/d0ef529d98d72920",
+        "status" : "broken",
+        "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: msedge failed to start: crashed.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from msedge location C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe is no longer running, so msedgedriver is assuming that msedge has crashed.)\nStacktrace:\n\tGetHandleVerifier [0x00007FF701A43DB2+61490]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7019D6002+740642]\n\t(No symbol) [0x00007FF7017AB8AE]\n\t(No symbol) [0x00007FF7017DCBFE]\n\t(No symbol) [0x00007FF7017D7F13]\n\t(No symbol) [0x00007FF70181B7F8]\n\t(No symbol) [0x00007FF7018136E3]\n\t(No symbol) [0x00007FF7017E5EAA]\n\t(No symbol) [0x00007FF7017E518B]\n\t(No symbol) [0x00007FF7017E6634]\n\tMicrosoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF701C08D69+1207369]\n\t(No symbol) [0x00007FF701865304]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7019290F1+32273]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7019219E9+1801]\n\tMicrosoft::Applications::Events::ILogManager::DispatchEventBroadcast [0x00007FF701C07944+1202212]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7019DE998+19784]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7019DAE54+4612]\n\tMicrosoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7019DAF86+4918]\n\tMicrosoft::Applications::Events::EventProperty::~EventProperty [0x00007FF7019CF451+713073]\n\tBaseThreadInitThunk [0x00007FFE1F047614+20]\n\tRtlUserThreadStart [0x00007FFE1F4E26B1+33]",
+        "time" : {
+          "start" : 1694072131215,
+          "stop" : 1694072131215,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "4e64bae2e6ce2c0d",
+        "reportUrl" : "http://localhost:8081/job/Parabank_Pytest_Jenkins/5/allure/#testresult/4e64bae2e6ce2c0d",
+        "status" : "failed",
+        "statusDetails" : "AssertionError: assert False",
+        "time" : {
+          "start" : 1694072014185,
+          "stop" : 1694072020651,
+          "duration" : 6466
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "708f2d2fe5c0f3a9.json",
+  "parameterValues" : [ ]
+}

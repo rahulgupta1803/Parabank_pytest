@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Sep 07 12:51:23 IST 2023","Thu Sep 07 12:51:29 IST 2023","5939","testcases","test_register","Test_Register","","","test_register",""
+"passed","Tue Sep 12 13:06:09 IST 2023","Tue Sep 12 13:06:28 IST 2023","19046","testcases","test_login_ddt","Test_Login_DDT","","","test_login_ddt",""

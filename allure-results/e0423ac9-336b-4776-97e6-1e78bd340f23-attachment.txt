@@ -1,0 +1,15 @@
+INFO     Test_Register:test_register.py:12 Open browser
+INFO     Test_Register:test_register.py:15 Click on Register
+INFO     Test_Register:test_register.py:17 Enter First-Name
+INFO     Test_Register:test_register.py:19 Enter Last-Name
+INFO     Test_Register:test_register.py:21 Enter Address
+INFO     Test_Register:test_register.py:23 Enter City
+INFO     Test_Register:test_register.py:25 Enter State
+INFO     Test_Register:test_register.py:27 Enter Zip
+INFO     Test_Register:test_register.py:29 Enter Phone number
+INFO     Test_Register:test_register.py:31 Enter SSN
+INFO     Test_Register:test_register.py:33 Enter username
+INFO     Test_Register:test_register.py:35 Enter Password
+INFO     Test_Register:test_register.py:37 Enter confirm-password
+INFO     Test_Register:test_register.py:39 Click confirm button
+INFO     Test_Register:test_register.py:42 Registration is completed

@@ -1,0 +1,163 @@
+{
+  "uid" : "39202bfbece32431",
+  "name" : "test_register",
+  "fullName" : "testcases.test_register.Test_Register#test_register",
+  "historyId" : "92eebcf878dd255425576deab6fe5772",
+  "time" : {
+    "start" : 1694071283296,
+    "stop" : 1694071289235,
+    "duration" : 5939
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setup",
+    "time" : {
+      "start" : 1694071277856,
+      "stop" : 1694071283295,
+      "duration" : 5439
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "browser",
+    "time" : {
+      "start" : 1694071277856,
+      "stop" : 1694071277856,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "45a86d87b4fa432b",
+      "name" : "log",
+      "source" : "45a86d87b4fa432b.txt",
+      "type" : "text/plain",
+      "size" : 884
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "setup::0",
+    "time" : {
+      "start" : 1694071289235,
+      "stop" : 1694071291703,
+      "duration" : 2468
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_register"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Register"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-R8T5E19"
+  }, {
+    "name" : "thread",
+    "value" : "7476-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_register"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "44f5f32d3ebcfe81",
+        "reportUrl" : "http://localhost:8081/job/Parabank_Pytest_Jenkins/8/allure/#testresult/44f5f32d3ebcfe81",
+        "status" : "passed",
+        "time" : {
+          "start" : 1694071283296,
+          "stop" : 1694071289235,
+          "duration" : 5939
+        }
+      }, {
+        "uid" : "3ad251cb818d2e01",
+        "reportUrl" : "http://localhost:8081/job/Parabank_Pytest_Jenkins/7/allure/#testresult/3ad251cb818d2e01",
+        "status" : "passed",
+        "time" : {
+          "start" : 1694071283296,
+          "stop" : 1694071289235,
+          "duration" : 5939
+        }
+      }, {
+        "uid" : "6493ec0f0cb43531",
+        "reportUrl" : "http://localhost:8081/job/Parabank_Pytest_Jenkins/6/allure/#testresult/6493ec0f0cb43531",
+        "status" : "passed",
+        "time" : {
+          "start" : 1694071283296,
+          "stop" : 1694071289235,
+          "duration" : 5939
+        }
+      }, {
+        "uid" : "730283011a27cd3b",
+        "reportUrl" : "http://localhost:8081/job/Parabank_Pytest_Jenkins/5/allure/#testresult/730283011a27cd3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1694071283296,
+          "stop" : 1694071289235,
+          "duration" : 5939
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "39202bfbece32431.json",
+  "parameterValues" : [ ]
+}

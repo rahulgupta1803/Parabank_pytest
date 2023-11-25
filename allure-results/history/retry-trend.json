@@ -1,0 +1,33 @@
+[ {
+  "buildOrder" : 8,
+  "reportUrl" : "http://localhost:8081/job/Parabank_Pytest_Jenkins/8/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 2,
+    "retry" : 6
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "http://localhost:8081/job/Parabank_Pytest_Jenkins/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 2,
+    "retry" : 5
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:8081/job/Parabank_Pytest_Jenkins/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 2,
+    "retry" : 4
+  }
+}, {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:8081/job/Parabank_Pytest_Jenkins/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 2,
+    "retry" : 3
+  }
+} ]
